@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-01-18T22:31:41+08:00</updated>
+    <updated>2020-01-24T22:40:25+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,69 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">新年願望</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E6%96%B0%E5%B9%B4%E9%A1%98%E6%9C%9B/" />
+            <id>https://example.com/posts/%E6%96%B0%E5%B9%B4%E9%A1%98%E6%9C%9B/</id>
+            <updated>2020-01-24T22:40:03+08:00</updated>
+            <published>2020-01-24T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[看回16年写过的「THE LIFE LIST」，才觉得很多事情不必都实现，也有很多事情匪夷所思，现在也不懂当时为何要那样写，不过写下总有些理由，当然有些愿望也不知不觉的实现了，譬如这条：「去一次日本的海边餐厅」。
+回顾2019年，是我过去甘几年最幸福的一年，因为这一年我获得了身心上最大的自由。做的一切事情都有一个很明确的step，所有的快乐都是预期以内的。这种平稳的快乐虽然不错，但新年新气象，今年期望所有的快乐可以是Async（异步）的，随便怎么来，横着来，竖着来，说好不来却又偏偏来，都可以。anyway，我想说的是应该要有点烟火味出来了，尝试那些非常想做的事情。
+不管如何，先立个list吧：]]></summary>
+            
+                <content type="html"><![CDATA[<p>看回16年写过的「THE LIFE LIST」，才觉得很多事情不必都实现，也有很多事情匪夷所思，现在也不懂当时为何要那样写，不过写下总有些理由，当然有些愿望也不知不觉的实现了，譬如这条：「去一次日本的海边餐厅」。</p>
+
+<p>回顾2019年，是我过去甘几年最幸福的一年，因为这一年我获得了身心上最大的自由。做的一切事情都有一个很明确的step，所有的快乐都是预期以内的。这种平稳的快乐虽然不错，但新年新气象，今年期望所有的快乐可以是Async（异步）的，随便怎么来，横着来，竖着来，说好不来却又偏偏来，都可以。anyway，我想说的是应该要有点烟火味出来了，尝试那些非常想做的事情。</p>
+
+<p>不管如何，先立个list吧：</p>
+
+<ul>
+<li><p>学习一门外语</p></li>
+
+<li><p>学会自己冲咖啡</p></li>
+
+<li><p>学会做便当</p></li>
+
+<li><p>做回播客</p></li>
+
+<li><p>fishing sound！</p></li>
+
+<li><p>做一次快闪的移动书店</p></li>
+
+<li><p>看几场心水的concert，见见那些闪光的人们</p></li>
+</ul>
+
+<p>......</p>
+
+<p>祝大家新年快樂！ 身體健康！</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/2020/" term="2020" label="2020" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">selffish</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/selffish/" />
