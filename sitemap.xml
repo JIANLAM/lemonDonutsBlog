@@ -4,32 +4,27 @@
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
+    <lastmod>2020-03-10T22:01:36+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/%E6%84%9F%E8%A7%89%E5%AE%8C%E7%BE%8E/</loc>
-    <lastmod>2020-03-10T21:52:17+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
@@ -160,6 +155,11 @@
   <url>
     <loc>https://example.com/tags/%E9%AB%98%E6%A1%A5%E4%B8%80%E7%94%9F/</loc>
     <lastmod>2019-12-08T21:47:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/</loc>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
@@ -359,7 +359,7 @@
   
   <url>
     <loc>https://example.com/posts/senses-inherited%E4%B8%89/</loc>
-    <lastmod>2019-12-08T21:52:57+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:26+08:00</lastmod>
   </url>
   
   <url>
@@ -369,12 +369,12 @@
   
   <url>
     <loc>https://example.com/posts/senses-inherited%E4%B8%80/</loc>
-    <lastmod>2019-12-08T20:31:12+08:00</lastmod>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9%E8%9C%B7%E5%B7%9D%E5%AE%9F%E8%8A%B1/</loc>
-    <lastmod>2019-12-08T20:31:12+08:00</lastmod>
+    <loc>https://example.com/tags/%E8%9C%B7%E5%B7%9D%E5%AE%9F%E8%8A%B1/</loc>
+    <lastmod>2020-03-10T22:02:31+08:00</lastmod>
   </url>
   
   <url>

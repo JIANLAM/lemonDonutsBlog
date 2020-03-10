@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-03-10T21:56:50+08:00</updated>
+    <updated>2020-03-10T22:02:44+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">张敬轩专辑选购指南</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/" />
             <id>https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/</id>
-            <updated>2020-03-10T21:52:17+08:00</updated>
+            <updated>2020-03-10T22:01:36+08:00</updated>
             <published>2020-03-10T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -56,12 +56,6 @@
                     
                 
                     
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
-                            
                         
                             
                             
@@ -2334,7 +2328,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
             <title type="text">Senses Inherited（三）</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/senses-inherited%E4%B8%89/" />
             <id>https://example.com/posts/senses-inherited%E4%B8%89/</id>
-            <updated>2019-12-08T21:52:57+08:00</updated>
+            <updated>2020-03-10T22:02:26+08:00</updated>
             <published>2018-12-30T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -2426,6 +2420,12 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                                 <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
                             
                         
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%84%9F%E8%A7%89%E5%AE%8C%E7%BE%8E/" term="感觉完美" label="感觉完美" />
+                            
+                        
                     
                 
             
@@ -2499,7 +2499,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
             <title type="text">Senses Inherited（一）</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/senses-inherited%E4%B8%80/" />
             <id>https://example.com/posts/senses-inherited%E4%B8%80/</id>
-            <updated>2019-12-08T20:31:12+08:00</updated>
+            <updated>2020-03-10T22:02:31+08:00</updated>
             <published>2018-12-13T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -2581,7 +2581,19 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9%E8%9C%B7%E5%B7%9D%E5%AE%9F%E8%8A%B1/" term="张敬轩，蜷川実花" label="张敬轩，蜷川実花" />
+                                <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E8%9C%B7%E5%B7%9D%E5%AE%9F%E8%8A%B1/" term="蜷川実花" label="蜷川実花" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%84%9F%E8%A7%89%E5%AE%8C%E7%BE%8E/" term="感觉完美" label="感觉完美" />
                             
                         
                     
