@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-02-11T21:40:43+08:00</updated>
+    <updated>2020-03-10T21:56:50+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,64 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">张敬轩专辑选购指南</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/" />
+            <id>https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/</id>
+            <updated>2020-03-10T21:52:17+08:00</updated>
+            <published>2020-03-10T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[昨晚偶发的性质，跟宝讲了快1个钟关于轩叔（张敬轩）专辑的种种故事。今天也借着机会来讲……]]></summary>
+            
+                <content type="html"><![CDATA[<p>昨晚偶发的性质，跟宝讲了快1个钟关于轩叔（张敬轩）专辑的种种故事。今天也借着机会来讲讲选购张敬轩专辑的一些有取的事情。</p>
+
+<p>如果要在这么多专辑中来个排名，我的名单如下：</p>
+
+<ol>
+<li><a href="https://music.douban.com/subject/10834573/" target="_blank">是时候</a></li>
+<li><a href="https://music.douban.com/subject/30405146/" target="_blank">Senses Inherited（感觉完美）</a>、 <a href="https://music.douban.com/subject/26854057/" target="_blank">Vibes</a></li>
+<li><a href="https://music.douban.com/subject/21349163/" target="_blank">Pink Dahlia</a> 、<a href="https://music.douban.com/subject/30231268/" target="_blank">Dahlia II</a></li>
+</ol>
+
+<p>当然了解我的朋友，一定知道为什么第一的专辑是：「是时候」，歌单里第二首「塵埃落定」太过抢眼，让它卫冕冠军，当之无愧。但除此之外，你买了一定不会吃亏的理由是，里面有3张CD，1张DVD，平均每张CD17首歌播放时长50分钟以上，放上一张任其音符在你房间游荡，根本不用管他，碟都不用换他都管够你了，经典歌曲多到真的回本。而且最重要的是这张专辑里有瑰宝，就比如「温馨提示」、「感情用事」，都是被冷漠低估了的歌。</p>
+
+<p>并列第二的两张，真的是因为它们质感太好。首先如果你是一个颜值控，直接买下这两张，回去静唧唧（悄悄）的欣赏就完事了。从唱片设计的角度，vibes的封面线条和颜色都非常抢眼时尚，到了Senses Inherited又再升了一个档次，映照回它的主题：「觸動，品味，感覺完美傳承」，而且这张专辑设计成一本常规书本大小的写真集，整个concert以黑白为主色调，高档奢华低调，让我想起坂本龙一的「BTTB」。讲到内容，这张专辑刚出那会已经写过3篇，感兴趣的可以看文末的相关链接。 有人说这张专辑的故事性不强，其实很强，只是你没品到，也不是都要像麦浚龙一样把故事线拉长到一辈子，花几十张专辑去讲，才叫故事。有些故事就是寻常到短短一个小时，下一秒你可能会问：「我们还有见面的机会吗？」</p>
+
+<p>排名第三的两张，好接近，Dahlia的一二部，我手头上只有Dahlia II，但是列在这里不是让你非买不可，只是想稍微提提你这两张专辑有多重要。这两张专辑是他展现柔的美的直接体现，吓？你说你感受不到，没关系，这回稍微提提，等到六月份終曲二週年的時候，我再給你慢慢道來。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%84%9F%E8%A7%89%E5%AE%8C%E7%BE%8E/" term="感觉完美" label="感觉完美" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">到大海去</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%88%B0%E5%A4%A7%E6%B5%B7%E5%8E%BB/" />
@@ -2377,7 +2435,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
             <title type="text">Senses Inherited（二）</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/senses-inherited%E4%BA%8C/" />
             <id>https://example.com/posts/senses-inherited%E4%BA%8C/</id>
-            <updated>2019-12-08T21:54:37+08:00</updated>
+            <updated>2020-03-10T21:44:10+08:00</updated>
             <published>2018-12-23T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -2424,6 +2482,12 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                                 <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%84%9F%E8%A7%89%E5%AE%8C%E7%BE%8E/" term="感觉完美" label="感觉完美" />
                             
                         
                     
