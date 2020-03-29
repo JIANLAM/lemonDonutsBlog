@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-03-10T22:02:44+08:00</updated>
+    <updated>2020-03-29T23:41:18+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,63 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">线上线下 实体数码 远程现场</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B-%E5%AE%9E%E4%BD%93%E6%95%B0%E7%A0%81-%E8%BF%9C%E7%A8%8B%E7%8E%B0%E5%9C%BA/" />
+            <id>https://example.com/posts/%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B-%E5%AE%9E%E4%BD%93%E6%95%B0%E7%A0%81-%E8%BF%9C%E7%A8%8B%E7%8E%B0%E5%9C%BA/</id>
+            <updated>2020-03-29T23:40:45+08:00</updated>
+            <published>2020-03-29T23:10:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[由于疫情的原因，所有人都宅在家自行隔离，大家被安排在家办公，远程协作。但一部分人对此并不陌生，程序员、设计师、自由职业者尤其。出于职业或者上级安排的原因，他们在这方面的经验已经相当成熟，随时stand by，面对突如其来的线上问题，随时进行处理，所以也闹出了许多笑话与偏见，诸如星巴克呆着的都是IT男（村上的「刺杀骑士团长」中有提及）、在高速路旁兢兢业业的程序员...又比方一些编剧、作家，也非常喜欢堆扎在咖啡馆，比方这次奥斯卡得奖作品：「寄生虫」的导演奉俊昊，他在一场对谈中就说到，自己在家安静呆着写不出东西，在咖啡馆那种有点人声背景的地方反而能静下心写点东西。所以其实并不是疫情让大家被迫开始远程办公了，而是远程办公这件一直都存在的事情渐渐开始出现在大众视野了。]]></summary>
+            
+                <content type="html"><![CDATA[<p>由于疫情的原因，所有人都宅在家自行隔离，大家被安排在家办公，远程协作。但一部分人对此并不陌生，程序员、设计师、自由职业者尤其。出于职业或者上级安排的原因，他们在这方面的经验已经相当成熟，随时stand by，面对突如其来的线上问题，随时进行处理，所以也闹出了许多笑话与偏见，诸如星巴克呆着的都是IT男（村上的「刺杀骑士团长」中有提及）、在高速路旁兢兢业业的程序员...又比方一些编剧、作家，也非常喜欢堆扎在咖啡馆，比方这次奥斯卡得奖作品：「寄生虫」的导演奉俊昊，他在一场对谈中就说到，自己在家安静呆着写不出东西，在咖啡馆那种有点人声背景的地方反而能静下心写点东西。所以其实并不是疫情让大家被迫开始远程办公了，而是远程办公这件一直都存在的事情渐渐开始出现在大众视野了。</p>
+
+<p>为了远程办公，人们也开始花尽心思，对自己的设备开始苛刻起来，要最轻最薄最便利的电脑，厂商们也投其所好，所以出现了surface pro、ipad pro这些不断往「电脑」这个方向进化的平板。surface好理解，简单的，它是一个可拆卸键盘的轻薄电脑，但ipad pro的定位就模糊了许多，首先什么样的人会选择ipad pro当自己工作的电脑呢？在我身边使用到ipad的人群里，用其搭配Apple Pencil拿来设计、画画是常见的例子，最后把那些经常把使用Office 组件挂在嘴边的人算上，会计？行政？运营？公关等等，你说漏了，还有在ipad上做心爱的笔记，对，能想到的差不多了。所以讲道理这些事情，能在一台我花了7000多块钱的设备上完成，很过分吗？你说我还能在上面写代码，问题是为什么我不直接掏出一台Macbook pro呢？所以每次苹果都力推拿ipad提高生产力的时候，都像在做一件吃力不讨好的事情，这种定位其实不需要苹果来主导，极客们自然会想到，也完全不用担心是否轻便、是否足够薄到可以塞进一个a4的内胆包中，你当然也见过那些背着巨大IMAC上飞机、去星巴克的「疯子们」。</p>
+
+<p>这几天许多博物馆、杂志（wire、vogue）都给出了线上免费看展、看杂志的贴心服务，一些音乐家也放出了自己一些过往的演出视频让大家宅在家无聊之余可以放轻松。当然这里想讨论的问题是一直有很多人会问的问题，最常见的几种：</p>
+
+<blockquote>
+<p>「你去看他演出啦？现场和在QQ音乐听到的有什么不同吗？」</p>
+
+<p>「你去看展了？现场看的和我在网上看到的有不一样吗？」</p>
+
+<p><a href="https://www.thestandnews.com/culture/03-%E5%B9%B4%E6%B2%99%E5%A3%AB%E5%89%B5%E6%A5%AD-%E6%A8%93%E4%B8%8A%E7%8D%A8%E7%AB%8B%E5%94%B1%E7%89%87%E5%BA%97%E9%80%86%E5%B8%82%E6%90%AC%E5%9C%B0%E9%8B%AA-%E5%BA%97%E4%B8%BB-%E5%91%A2%E4%B8%80%E8%A1%8C%E9%BB%9E%E9%83%BD%E6%9C%89%E5%BE%97%E5%81%9A/?fbclid=IwAR3X4pYlJAIPmazj9yu0-KdfObezAAsYEMyGOzXMyorMFd2oXiQtbnUnXCM" target="_blank">「咩，依家仲有人听黑胶噶乜？」（现在还有人听黑胶的吗？）</a></p>
+
+<p>「你听CD和在流媒体听感觉有什么不同吗？」</p>
+</blockquote>
+
+<p>在电脑上看到达芬奇的画和在卢浮宫看到的有差吗？在现场第一次听见了歌手唱自己心爱的歌（在音乐厅欣赏到了音乐家的演奏）和在QQ音乐听有差吗？</p>
+
+<p>当然，有差。</p>
+
+<p>这个「差」就是其中一个原因，现场会有变故，这种不确定性本身就是魅力的一部分。音乐家演奏前要热热身，随即乱序弹奏一通，给观众一碟开胃菜。演唱会结尾大家都喊安可，舞台再次升起，再听一首了无遗憾。第二个原因就是事物本质的真实感，那副画作真的如传闻所说的挂在那里，我亲眼看到了。果然我记得这首歌是在夏这个篇章的CD side 里的第5首。歌放完了吗，麻烦你帮我换过张碟。你看这张LP的封套内页，原来还蕴藏着这么多彩蛋，这些真实感是数码世界所没有的。</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC/" term="远程办公" label="远程办公" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">张敬轩专辑选购指南</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%BC%A0%E6%95%AC%E8%BD%A9%E4%B8%93%E8%BE%91%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/" />
