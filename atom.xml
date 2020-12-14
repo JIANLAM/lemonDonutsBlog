@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-12-14T12:16:40+08:00</updated>
+    <updated>2020-12-14T21:25:57+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,8 +20,8 @@
             <title type="text">Ryuichi Sakamoto Playing the Piano 12122020</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/ryuichi-sakamoto-playing-the-piano-12122020/" />
             <id>https://example.com/posts/ryuichi-sakamoto-playing-the-piano-12122020/</id>
-            <updated>2020-12-14T00:25:31+08:00</updated>
-            <published>2020-12-13T14:47:57+08:00</published>
+            <updated>2020-12-14T21:25:45+08:00</updated>
+            <published>2020-12-12T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
                     <uri>https://io-oi.me/</uri>
@@ -29,9 +29,11 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[​ 12月12号，坂本龙一在平台MUSIC/SLASH举办了一场线上的直播钢琴演奏会：……]]></summary>
+    <summary type="html"><![CDATA[……]]></summary>
             
-                <content type="html"><![CDATA[<p>​   12月12号，坂本龙一在平台MUSIC/SLASH举办了一场线上的直播钢琴演奏会：<a href="https://special.musicslash.jp/sakamoto2020/?fbclid=IwAR252Xjy2JKP8vSn6wZDBescId_vI82UKJ46XC9FoSe4qF7ytzAoDojJThQ" target="_blank">「Ryuichi Sakamoto : Playing the Piano 12122020」</a>，曲目如下：</p>
+                <content type="html"><![CDATA[<p><img src="http://120.24.60.196:9000/img/sakamoto1.png" alt="海上钢琴师" /></p>
+
+<p>12月12号，坂本龙一在平台MUSIC/SLASH举办了一场线上的直播钢琴演奏会：<a href="https://special.musicslash.jp/sakamoto2020/?fbclid=IwAR252Xjy2JKP8vSn6wZDBescId_vI82UKJ46XC9FoSe4qF7ytzAoDojJThQ" target="_blank">「Ryuichi Sakamoto : Playing the Piano 12122020」</a>，曲目如下：</p>
 
 <blockquote>
 <ol>
@@ -67,22 +69,21 @@
 </ol>
 </blockquote>
 
-<p>​   门票价格6000日元，有区域限制的原因，可能让大部分人无法顺利的观看，有热心的朋友也在演出后整理了<a href="https://music.163.com/playlist?id=5376994509&amp;userid=265572475" target="_blank">playlist</a>。在演凑开始前的40分钟，教授透过一只充满未来感的机械狗和新媒体艺术家<a href="https://daitomanabe.myportfolio.com/" target="_blank">真鍋大度</a> 先生进行远程视讯谈话，当然是事先录制好的。这次会选择直播的形式进行表演，也是看中了MUSIC/SLASH高音质的业界水准，在视觉和听觉都力求完美的情况下，希望能够让观众能有一场视听盛宴，仿佛身临其境。整个听下来的感受确实是一场质量非常高的演出，但要到达那种就在眼前的境界，光靠软件加持是不够的，因为你永远控制不了你的左邻右里不发出声音，住的不够高，还会被街上的外卖小哥打扰。但就像是演出开始的时候那显眼的字幕：</p>
+<p>​   门票价格6000日元，有区域限制的原因，可能让大部分人无法顺利的观看，有热心的朋友也在演出后整理了<a href="https://music.163.com/playlist?id=5376994509&amp;userid=265572475" target="_blank">playlist</a>。在演凑开始前的40分钟，教授透过一只充满未来感的机械狗和新媒体艺术家<a href="https://daitomanabe.myportfolio.com/" target="_blank">真鍋大度</a> 先生进行远程视讯谈话，当然是事先录制好的。这次会选择直播的形式进行表演，也是看中了MUSIC/SLASH高音质的业界水准，在视觉和听觉都力求完美的情况下，希望能够让观众能有一场视听盛宴，仿佛身临其境。整个听完的感受，这确实是一场质量非常高的演出，但要到达那种就在眼前的境界，光靠软件加持是不够的，因为你永远控制不了你的左邻右里不发出声音，住的不够高，还会被街上的外卖小哥打扰。但就像是演出开始的时候那显眼的字幕：</p>
 
 <blockquote>
 <p>Please enjoy the music and noise.</p>
 </blockquote>
 
-<p>​   有杂质的现场状况才是live的精髓吧，现场某个角落止不住突兀的咳嗽声、演凑家翻乐谱时的声音、清嗓子的声音。这是活生生的现场才会面临的状况。反过来说，如果能理解街坊老友发出的噪音并不一定是件扫兴的事情，为秉承造福社区的原则，我将飘窗上的窗户打开些许缝隙让声音流溢出房间。可以想象的是，刚下班回到家的邻居听见这样的钢琴声并不会感到厌恶，或许能借此躺在沙发，安静的好好休息一下。从观看的屏幕来说，我是外接了一个24寸的曲屏显示器，还是会有距离感，最佳的情况可能是用一整面墙去投影，或许效果会不错。MUSIC/SLASH平台做的防盗录还是很强大的，以mac来讲，只能用自家的浏览器Safari，并且会监控你是否有截图、录制的情况，若发现有状况，屏幕会瞬间空白一片。</p>
+<p>​   有杂质的现场状况才是live的精髓吧，现场某个角落止不住突兀的咳嗽声、演凑家翻乐谱时的声音、清嗓子的声音，这是活生生的现场才会面临的状况。反过来说，如果能理解街坊老友发出的噪音并不一定是件扫兴的事情，反而可以轻松一些吧。为秉承造福社区的原则，我将飘窗上的窗户打开些许缝隙让声音流溢出房间。可以想象的是，刚下班回到家的邻居听见这样的钢琴声并不会感到厌恶，或许能借此躺在沙发，安静的好好休息一下。MUSIC/SLASH平台做的防盗录还是很强大的，以mac来讲，只能用自家的浏览器Safari，并且会监控你是否有截图、录制的情况，若发现有状况，屏幕会瞬间空白一片。</p>
 
-<p>​   这次在视觉上做文章，我们当然不只是听声音，也需要幻觉、一种视觉上的错觉。正如我在<a href="http://lemondonuts.com/posts/%E9%95%B0%E4%BB%93-%E8%BF%9E%E7%BB%93/" target="_blank">「镰仓 - 连结」</a>里提到，我们的记忆可以以音乐、画面作为连接。这次的录制现场在教授东京的工作室，画面刚开始的时候，背景是在一个空无一人的演奏厅里，起初我并没有很在意。到第二首的时候，背景开始切换到了一个别致的北欧风的白色屋子里，阳光透过较大的窗户映照到钢琴的一角。才意识到原来背景是犹如绿幕一般可以变幻的。到最惊艳的第三个画面，此时刚好演奏到「BTTB」专辑的第14首Aqua，来到了一片大海上，画面开始下起了雨，教授和广大的海、天空的雨水结合在一起，一位海上钢琴师，虚实相应，一切都太美好了。我陷入了一种只存在于回忆里记忆碎片的漩涡之中。</p>
+<p>​   这次在视觉上做文章，我们当然不只是听声音，也需要幻觉、一种视觉上的错觉。正如我在<a href="http://lemondonuts.com/posts/%E9%95%B0%E4%BB%93-%E8%BF%9E%E7%BB%93/" target="_blank">「镰仓 - 连结」</a>里提到，我们的记忆可以以音乐、画面作为连接。这次的录制现场在教授东京的工作室，画面刚开始的时候，背景是在一个空无一人的演奏厅里，起初我并没有很在意。到第二首的时候，背景开始切换到了一个别致的北欧风的白色屋子里，阳光透过较大的窗户映照到钢琴的一角，方正的倒影在地面上，才意识到原来背景是犹如绿幕一般可以任意变幻的。到最惊艳的第三个画面，此时刚好演奏到「BTTB」专辑的第14首Aqua，来到了一片大海上，画面开始下起了雨，远处的海浪泛着白光，教授和广大的海、天空中的雨水结合在一起，犹如海上的钢琴师，分不清虚幻与真实，一切都很美好的样子。我陷入了一种只存在于记忆碎片的漩涡之中。教授用温暖的钢琴声慰藉着我们，对即将过去的2020年进行告别。</p>
 
-<p>​   大片的雨滴在演凑结束后停留在屏幕上，仿佛录制现场刚刚经历过一场大雨的洗礼，雨水滑落在镜头上。来到aubade 的时候，随着演凑的进行，四处缓缓亮起了星光，不断的闪烁着，漂亮极了。到后来的energy flow，星光在灰白调川流不息的车流里如泡沫般浮到空中。将声音具象化，以画面的形式烙印在观众的记忆里，这是技术带给我们福利。</p>
+<p>​   大片的雨滴在演凑结束后仍停留在屏幕上，仿佛录制现场刚刚经历过一场大雨的洗礼，仿佛雨水滑落在镜头上。来到aubade的时候，随着演凑的进行，四处缓缓亮起了星光，不断的闪烁着，漂亮极了。到后来的energy flow，星光在灰白调川流不息的车流里如泡沫般漂浮到空中。将声音具象化，以画面的形式烙印在观众的记忆里，这是技术带给我们福利。</p>
 
-<p>​   我最喜欢的一首是今年为MUJI（无印良品）编写的关于：<a href="https://www.youtube.com/playlist?list=PLexdfNPSFUYBu5NtVI_EengtX6L45_pLc" target="_blank">「掃除」</a>为主题的广告曲子。从muji官方放出的5只影片我们可以看到世界各地不同地区的人们打扫卫生的模样，有一大早扫除落叶的清洁环卫工人、拂拭掉大佛身上灰尘的寺院僧人、擦拭大楼玻璃的师傅们......这是最自然、最平凡的模样，我们当然见惯不怪，不过今年由于新冠疫情的肆虐，我们甚至无法去完成一些在以前看来都是稀疏平常的事情。居家生活、远程办公成为我们的常态，或许回归平凡，和自己好好相处是我们要重新学习的事情，打扫好家里、吃一次自己做的食物、认真的搓澡、锻炼身体，认真做好这些细小的事情，我们也可以获得满满的幸福感。</p>
+<p>​   我最喜欢的一首是今年为MUJI（无印良品）编写的关于：<a href="https://www.youtube.com/playlist?list=PLexdfNPSFUYBu5NtVI_EengtX6L45_pLc" target="_blank">「掃除」</a>为主题的广告曲子。从muji官方放出的5只影片我们可以看到世界各地不同地区的人们打扫卫生的模样，有一大清早扫除落叶的清洁环卫工人、有拂拭大佛身上灰尘的寺院僧人、有擦拭摩天大楼玻璃的师傅们......这是最自然、最平凡的模样，我们见惯不怪，不过今年由于新冠疫情的肆虐，我们甚至无法去完成一些在以前看来都是稀疏平常的事情。居家生活、远程办公成为我们的常态，或许回归平凡，和自己好好相处是我们要重新学习的事情，打扫好家里、吃一次自己做的食物、认真的搓澡、锻炼身体，认真做好这些细小的事情，我们也可以重拾幸福感。</p>
 
-<p>​   「用音乐缓解大家紧张的事情。」或许这是教授透过这场音乐会给大家传达的讯息。比起紧张，我想大部分人应该是百无聊赖的、或者说是迷茫的。希望大家学会和自己相处吧！</p>
-]]></content>
+<p>​   「用音乐缓解大家紧张的情绪。」或许这是教授透过这场音乐会给大家传达的讯息。比起紧张，我想大部分人应该是百无聊赖的、莫如说是迷茫的。但一切都会好起来的，一起祈祷新年的到来，重新开始新的生活吧！</p>]]></content>
             
             
             
@@ -1931,7 +1932,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
+                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
                             
                         
                     
@@ -2088,7 +2089,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
+                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
                             
                         
                             
