@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-12-14T21:25:57+08:00</updated>
+    <updated>2020-12-14T21:29:18+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -274,7 +274,7 @@
             <title type="text">一週年快樂</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E4%B8%80%E9%80%B1%E5%B9%B4%E5%BF%AB%E6%A8%82/" />
             <id>https://example.com/posts/%E4%B8%80%E9%80%B1%E5%B9%B4%E5%BF%AB%E6%A8%82/</id>
-            <updated>2020-02-01T13:25:18+08:00</updated>
+            <updated>2020-12-14T21:29:11+08:00</updated>
             <published>2020-01-31T01:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -326,12 +326,6 @@
                             
                             
                                 <category scheme="https://example.com/tags/%E4%B8%80%E9%80%B1%E5%B9%B4/" term="一週年" label="一週年" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://example.com/tags/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80/" term="坂本龙一" label="坂本龙一" />
                             
                         
                     
@@ -1932,7 +1926,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
+                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
                             
                         
                     
@@ -2089,7 +2083,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
+                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
                             
                         
                             
