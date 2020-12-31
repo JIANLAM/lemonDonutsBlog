@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">lemon donuts</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2020-12-31T17:26:16+08:00</updated>
+    <updated>2020-12-31T17:39:57+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">没有人在乎的年末总结</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%B9%8E%E7%9A%84%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/" />
             <id>https://example.com/posts/%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%B9%8E%E7%9A%84%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</id>
-            <updated>2020-12-31T17:25:47+08:00</updated>
+            <updated>2020-12-31T17:39:50+08:00</updated>
             <published>2020-12-31T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -29,9 +29,11 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[每年的年终总结都比较负面，明明确实也做了不少事情，可是总是挑不好的说。今年的情况由于更糟糕了，反而有理由挑一些美好事情回忆，这样想来，也未必不是一件好事。]]></summary>
+    <summary type="html"><![CDATA[……]]></summary>
             
-                <content type="html"><![CDATA[<p>每年的年终总结都比较负面，明明确实也做了不少事情，可是总是挑不好的说。今年的情况由于更糟糕了，反而有理由挑一些美好事情回忆，这样想来，也未必不是一件好事。</p>
+                <content type="html"><![CDATA[<p><img src="http://120.24.60.196:9000/img/nara.png" alt="" /></p>
+
+<p>每年的年终总结都比较负面，明明确实也做了不少事情，可是总是挑不好的说。今年的情况由于更糟糕了，反而有理由挑一些美好事情回忆，这样想来，也未必不是一件好事。</p>
 
 <p>今年5月份，我又搬家了，从宝安搬到的了南山，又回到了10年前居住过的地区。从前的大冲现在变成了万象天地。我居住的村子，是误打误撞找到的，在签完合同后也很错愕的得知原来这个村子已经准备拆迁了，所以我是抱着短居的心情住下的，房东给我的提案是能住多久住多久，并且不长租，我觉得过得去。寻常的地方是就如同人在出生后的不久得知了生老病死的道理一样，还得努力的活下去。</p>
 
