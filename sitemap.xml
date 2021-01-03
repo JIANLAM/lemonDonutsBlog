@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-12-31T17:39:50+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/posts/</loc>
     <lastmod>2020-12-31T17:39:50+08:00</lastmod>
   </url>
@@ -19,6 +14,11 @@
   
   <url>
     <loc>https://example.com/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-12-31T17:39:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
     <lastmod>2020-12-31T17:39:50+08:00</lastmod>
   </url>
   
