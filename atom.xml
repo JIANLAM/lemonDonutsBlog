@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-01-16T09:29:36+08:00</updated>
+    <updated>2021-01-19T13:05:49+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,70 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">The Brightest Darkness 唱片赏</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/the-brightest-darkness%E5%94%B1%E7%89%87%E8%B5%8F/" />
+            <id>https://example.com/posts/the-brightest-darkness%E5%94%B1%E7%89%87%E8%B5%8F/</id>
+            <updated>2021-01-19T13:04:42+08:00</updated>
+            <published>2021-01-18T08:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[周六的早晨，我收到了「The Brightest Darkness」新专辑的包裹，我把它带到了深圳美丽的海山。周日，和大家一起第一次听这张实体专辑。
+以下是一些花絮(多图预警)：]]></summary>
+            
+                <content type="html"><![CDATA[<iframe
+    src="//player.bilibili.com/player.html?bvid=BV1Wo4y1o7Ej&page=1"
+    scrolling="no"
+    height="350px"
+    width="100%"
+    class="video"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"
+>
+</iframe>
+
+<p>周六的早晨，我收到了「The Brightest Darkness」新专辑的包裹，我把它带到了深圳美丽的海山。周日，和大家一起第一次听这张实体专辑。</p>
+
+<p>以下是一些花絮(多图预警)：</p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd1.png" alt="" /></p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd2.png" alt="" /></p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd3.png" alt="" /></p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd4.png" alt="" /></p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd5.png" alt="" /></p>
+
+<p><img src="http://120.24.60.196:9000/img/tbd7.png" alt="" /></p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%BC%A0%E6%95%AC%E8%BD%A9/" term="张敬轩" label="张敬轩" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Village Studios 影集十周年回顾</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/studio/" />
@@ -6529,6 +6593,33 @@ Sunny在manga中其實是一輛被廢棄的車，它同時還兼顧著另外一�
                                 <category scheme="https://example.com/tags/selfportrait%E5%8D%9A%E5%AE%A2/" term="selfportrait博客" label="selfportrait博客" />
                             
                         
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/a/" />
+            <id>https://example.com/posts/a/</id>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[]]></summary>
+            
+                <content type="html"><![CDATA[]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
                     
                 
             
