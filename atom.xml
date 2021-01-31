@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-01-19T13:05:49+08:00</updated>
+    <updated>2021-01-31T20:41:42+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">The Brightest Darkness 唱片赏</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/the-brightest-darkness%E5%94%B1%E7%89%87%E8%B5%8F/" />
             <id>https://example.com/posts/the-brightest-darkness%E5%94%B1%E7%89%87%E8%B5%8F/</id>
-            <updated>2021-01-19T13:04:42+08:00</updated>
+            <updated>2021-01-31T20:25:50+08:00</updated>
             <published>2021-01-18T08:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -48,17 +48,51 @@
 
 <p>以下是一些花絮(多图预警)：</p>
 
-<p><img src="http://120.24.60.196:9000/img/tbd1.png" alt="" /></p>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
 
-<p><img src="http://120.24.60.196:9000/img/tbd2.png" alt="" /></p>
+ 
+        
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd1.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd2.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd3.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd4.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd5.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/tbd7.png" alt="">
+            </div>
+            
+        </div>
+        
+        <div class="swiper-pagination"></div>
+    </div>
 
-<p><img src="http://120.24.60.196:9000/img/tbd3.png" alt="" /></p>
-
-<p><img src="http://120.24.60.196:9000/img/tbd4.png" alt="" /></p>
-
-<p><img src="http://120.24.60.196:9000/img/tbd5.png" alt="" /></p>
-
-<p><img src="http://120.24.60.196:9000/img/tbd7.png" alt="" /></p>]]></content>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+     
+     <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        });
+        </script>]]></content>
             
             
             
@@ -84,7 +118,7 @@
             <title type="text">The Village Studios 影集十周年回顾</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/studio/" />
             <id>https://example.com/posts/studio/</id>
-            <updated>2021-01-16T09:27:44+08:00</updated>
+            <updated>2021-01-31T20:41:33+08:00</updated>
             <published>2021-01-15T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -112,15 +146,47 @@
 
 <p>以下是一些花絮(多图预警)：</p>
 
-<p><img src="http://120.24.60.196:9000/img/hins1.jpg" alt="" /></p>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
 
-<p><img src="http://120.24.60.196:9000/img/hins6.png" alt="" /></p>
+ 
+        
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/hins1.jpg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/hins6.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/h2.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/h3.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/h4.png" alt="">
+            </div>
+            
+        </div>
+        
+        <div class="swiper-pagination"></div>
+    </div>
 
-<p><img src="http://120.24.60.196:9000/img/h2.png" alt="" /></p>
-
-<p><img src="http://120.24.60.196:9000/img/h3.png" alt="" /></p>
-
-<p><img src="http://120.24.60.196:9000/img/h4.png" alt="" /></p>]]></content>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+     
+     <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        });
+        </script>]]></content>
             
             
             
