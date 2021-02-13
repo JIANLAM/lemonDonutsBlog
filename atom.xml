@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-01-31T20:41:42+08:00</updated>
+    <updated>2021-02-13T15:38:53+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,164 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">和山子一起去旅行吧</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%92%8C%E5%B1%B1%E5%AD%90%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C%E5%90%A7/" />
+            <id>https://example.com/posts/%E5%92%8C%E5%B1%B1%E5%AD%90%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E8%A1%8C%E5%90%A7/</id>
+            <updated>2021-02-13T15:37:06+08:00</updated>
+            <published>2021-02-13T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[<pre><code>         var swiper = new Swiper('.swiper-container', { pagination: '.swiper-pagination', paginationClickable: true, });  有一天，我收到一个讯息，表姐很突然的对我说：</code></pre>
+<p>『你很适合一起出去旅行。』</p>
+]]></summary>
+            
+                <content type="html"><![CDATA[<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+
+ 
+        
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz1.jpeg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz5.jpg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz6.jpg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz7.jpg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz2.jpeg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz3.jpeg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz4.png" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz12.jpeg" alt="">
+            </div>
+            
+        </div>
+        
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+     
+     <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        });
+        </script>
+
+
+
+<p>有一天，我收到一个讯息，表姐很突然的对我说：</p>
+
+<blockquote>
+<p>『你很适合一起出去旅行。』</p>
+</blockquote>
+
+<p>这句话时不时会从我脑海边闪过，当中的理由是什么其实好像并不重要，但这样的说法我还是第一次听说。我问过许多人关于旅行的看法，是选择一个人还是和别人结伴同行。大部分的人会选择和亲朋好友一起出去玩，当然也有人喜欢独行。但是在上面那句话的语境里，我听到的更多偏向于：『如果要选一个人一起去旅行，那我会选你吧。』但事实上，我和她当然不太可能一起单独旅行，她说出了这句话基于怎样的情感是我比较好奇的。我自己想到的一个答案是：『大概是我绝不会让对方在旅行的时候感到孤单吧。』</p>
+
+<p>我想无论是一个人也好，还是一群人，踏上了旅行的航线，心里是带着既不安又兴奋的心情，身处异地，莫名的孤独感袭来。不管我们再怎么否定旅行最终都不期望一个人这一事实，都掩饰不了当我们第一次在富士山脚下、第一次看见巴黎、东京铁塔、第一次被冰岛的绮丽世界震撼时想和别人分享的心情。我无法一个人面对这个世界，所以当我远行的时候，我也希望有人看见了我见过的风景。</p>
+
+<p>说到底我们都太TM孤单了，孤单的来到这个世界，孤单的离开。在纪录片《和奈良美智一起去旅行》里，一位叫赛荷的小女孩对他说：</p>
+
+<blockquote>
+<p>奈良美智先生，悲伤时我好想喊你的名字。</p>
+</blockquote>
+
+<p>放佛是从画里看见了奈良先生的孤独。森山大道独自周游国道，他带上了相机。村上春树身为职业小说家这一特殊的身份，孤独是家常便饭，但日后，我们总能在他的小说世界里看见他对这个世界风景的看法。他也曾写过一本关于旅行的书：《你说,寮国到底有什么?》，所以不管以何种形式，我们不愿独自上路，总会带上些什么、留下些什么。</p>
+
+<p>在我的印象里，旅行的风景是白平衡异常、被强曝光以后的世界，被阳光反照的白茫茫一片的湘南海街，犹如滨田英明拍摄的鸟取砂丘的纯洁世界。但就像是天国与地狱， 时间终有一天会抹去上面的一切， 这样的记忆如果只存留在一个人身上，也太可惜了。</p>
+
+<p>19年， 奈良美智带着<a href="https://togetter.com/li/1408198" target="_blank">山子（一个闭眼女孩的山形立牌）</a>旅行时， 所到之处都用山子作为背景的一部分，拍了写真。距离奈良先生举办摄影展已经过去了2年，这次他也一定会以摄影师的身份带来不一样的东西吧，当我在推特看了一段时间该系列的照片以后，心里这样想着。果然以山子为主题的名为：「Though no one may notice, the world knows all that you have seen.」的写真展，4月份将在北海道举行。 而今天2月13号，为该展览筹集资金的明信片套装也开始贩售。是次贩售明信片的地点也各有不同，不单单是书店、精品店，也有园艺店、台湾小吃店、咖啡店、家居店。</p>
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css">
+
+ 
+        
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz10.jpg" alt="">
+            </div>
+            
+            <div class="swiper-slide">
+                <img src="http://120.24.60.196:9000/img/sz11.jpg" alt="">
+            </div>
+            
+        </div>
+        
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+     
+     <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            paginationClickable: true,
+        });
+        </script>
+
+
+
+<p>在不同的店里呈现奈良美智世界的风景， 这样想来这个主题就不言而喻了：</p>
+
+<blockquote>
+<p>「或许没有人注意到，但是这个世界已经被你真真切切的改变了。」</p>
+</blockquote>
+
+<p>你将沙滩的石子拾起， 放置于阳台的盆摘上；你将森子玩偶放置于homepod mini音响上；你将帽子遗留在海边车站的石凳上；多么微不足道的风景，但是这个世界已经被你改变了。在写真的世界里，我们不可能拍到一张一模一样的照片。我们也无法要求曾经出现过在自己世界里的人一尘不变，即便曾经你们多么真实的快乐着，但那就像无法拍回你曾经拍过的照片一样，都是无法复刻的存在。那些真实存在的，真真切切的存在过人和风景，不管怎么遗忘，请相信，它们真实发生着。</p>
+
+<p>至少我是这么相信着...</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%A5%88%E8%89%AF%E7%BE%8E%E6%99%BA/" term="奈良美智" label="奈良美智" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">The Brightest Darkness 唱片赏</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/the-brightest-darkness%E5%94%B1%E7%89%87%E8%B5%8F/" />
@@ -3847,7 +4005,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
             <title type="text">Traveling with Yoshitomo Nara</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/traveling-with-yoshitomo-nara/" />
             <id>https://example.com/posts/traveling-with-yoshitomo-nara/</id>
-            <updated>2019-12-08T21:58:43+08:00</updated>
+            <updated>2021-02-12T23:51:22+08:00</updated>
             <published>2018-06-28T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -3873,10 +4031,6 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
 <p>是因为感同身受，才写下了这句话吧，连她妈妈都不曾知道的心里话，更因为她是小女孩，说出的话是这样纯粹。奈良他自己也说『孤独、疏离感、灰的天空，和一个幽闭的空间』是他能够让自己静下心来，回到孩童时代，去激发出那些画面的源泉。</p>
 
 <p>艺术家在这点上都是相似的吧，仿佛怀有更多的孤独感、独处的时间，才能进一步触及到某种艺术上的真谛，摄影家是如此，森山大道早年模仿美国摄影大师进行的公路之旅，绕着国道，如一条猎犬，彻头彻尾的搜索着写真的可能性，他说有时候在深山一个人也没有的感觉，被巨大的孤独感吞噬，那种感受是很可怕的。小说家更是需要一个独处的、与世隔绝的空间，在某个幽静僻壤的郊区尽头的酒店里，翻箱倒柜、从自己思维深处的柜子里翻阅可用的素材，待完成之日，又重见天日。另外一个相识点就是，他们都喜欢在创作的时候外放音乐，六〇、七〇年代或是八几年的音乐，在烟雾弥漫，杂乱无章的工作书台前，那种战后期待和平反叛的样子，身穿朋克夹克、军装裤、迷彩鞋的奈良是如此的率真，不羁。当然这点漫画家浦泽直树给我的感觉如是，而村上春树他的感觉则更像是夏威夷海滩边听古典LP的健康大叔。</p>
-
-<p><img src="http://7xubgo.com1.z0.glb.clouddn.com/WechatIMG273.jpeg" alt="img" /></p>
-
-<p><img src="http://7xubgo.com1.z0.glb.clouddn.com/WechatIMG278.jpeg" alt="img" /></p>
 
 <p>孤单感是一方面，或许是性格使然，有些艺术家也并非如此，像村上隆我觉得他反而是能很好运用商业化的资本主义艺术家。讲回来，我惊讶于奈良先生他的简朴，〇四年，他的画翻了十倍，财务自由不再话下，但出行入住的酒店，空间小、配置简陋。他本人在日本的仓库房，也如同当年只身一人到德国时居住的样子，给我的感觉就是非常的简单、朴素。他是切身的加入到反对消费主义领域的艺术家，在一面墙角上，他写着：『不要豪车、豪宅。不要钱，当然有的时候比没有强。』</p>
 
@@ -6659,33 +6813,6 @@ Sunny在manga中其實是一輛被廢棄的車，它同時還兼顧著另外一�
                                 <category scheme="https://example.com/tags/selfportrait%E5%8D%9A%E5%AE%A2/" term="selfportrait博客" label="selfportrait博客" />
                             
                         
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text"></title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/a/" />
-            <id>https://example.com/posts/a/</id>
-            <updated>0001-01-01T00:00:00+00:00</updated>
-            <published>0001-01-01T00:00:00+00:00</published>
-            <author>
-                    <name>kinlam</name>
-                    <uri>http://lemondonuts.com/</uri>
-                    <email>mrkinlam7@gmail.com</email>
-                    </author>
-            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[]]></summary>
-            
-                <content type="html"><![CDATA[]]></content>
-            
-            
-            
-            
-            
-                
-                    
-                
                     
                 
             
