@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-03-31T20:54:37+08:00</updated>
+    <updated>2021-04-11T21:10:59+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,52 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">天国与地狱</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%A4%A9%E5%9B%BD%E4%B8%8E%E5%9C%B0%E7%8B%B1/" />
+            <id>https://example.com/posts/%E5%A4%A9%E5%9B%BD%E4%B8%8E%E5%9C%B0%E7%8B%B1/</id>
+            <updated>2021-04-11T21:10:50+08:00</updated>
+            <published>2021-04-11T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[日剧：《天国と地獄》迎来了大结局，讲述了女警（绫濑遥饰演）和高智商犯（高桥一生饰演）互换灵魂以后所发生的一系列事情。
+上一次看到这种桥段还是在新海诚的电影《你的名字》里。]]></summary>
+            
+                <content type="html"><![CDATA[<p>日剧：<a href="https://movie.douban.com/subject/35243063/" target="_blank">《天国と地獄》</a>迎来了大结局，讲述了女警（绫濑遥饰演）和高智商犯（高桥一生饰演）互换灵魂以后所发生的一系列事情。</p>
+
+<p>上一次看到这种桥段还是在新海诚的电影《你的名字》里。</p>
+
+<p>灵魂互换也无法了解对方，原因很简单，了解对方无法从肉体着手辨识，我们不是福尔摩斯，从手上的划痕就能看出对方的职业。我们所说的自我也指的是灵魂吧，与肉体没有关系。那我们是如何了解对方的呢？我们通过对方喜欢吃的东西、生活习惯、为人处事、别人的评价，这些种种的线索拼凑成一个大致的轮廓，最后找到了一个我们自以为这就是对方的终点站。</p>
+
+<p>当然这些被遗留在世上的线索，有些是不足为外人道也的，那些难以启齿的或许才是那个灵魂真正在意、打从心里希望有人明白的东西。</p>
+
+<p>就像是电影「无依之地」里女主不被理解为什么一直在路上？没有人明白回去会被温柔杀死，即便温柔已不复存在。也没有人能够理解，为什么<a href="http://www.vivianmaier.com/" target="_blank">Vivian Maier（薇薇安·迈尔）</a>拍了那么多卓越的写真，却一直没有公开过。和她相处超过十年以上的人都不清楚她的故乡来自哪里，只知道她有一口别致的法国口音，但事实上她并非来自法国。她在许多地方还一直用的假名。想伪装自己真的太简单了，我们所了解的，只是基于对方给予的种种讯息，那些浮于表面的线索，往往并不能让我们真正的了解对方，薇薇安的密码在她的写真里，保姆的身份很好的隐藏了她，但是真正的她不存在于这个世上，而是在那个二维的写真世界里。</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E8%96%87%E8%96%87%E5%AE%89%E8%BF%88%E5%B0%94%E6%97%A0%E4%BE%9D%E4%B9%8B%E5%9C%B0/" term="薇薇安迈尔，无依之地" label="薇薇安迈尔，无依之地" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">坂本龍一 觀音聽時</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E8%A7%82%E9%9F%B3%E5%90%AC%E6%97%B6/" />
