@@ -4,21 +4,41 @@
   
   <url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2021-04-11T21:10:50+08:00</lastmod>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2021-04-11T21:10:50+08:00</lastmod>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/%E5%A4%A9%E5%9B%BD%E4%B8%8E%E5%9C%B0%E7%8B%B1/</loc>
-    <lastmod>2021-04-11T21:10:50+08:00</lastmod>
+    <loc>https://example.com/tags/%E5%A5%88%E8%89%AF%E7%BE%8E%E6%99%BA/</loc>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%E5%AE%89%E8%97%A4%E5%BF%A0%E9%9B%84/</loc>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/%E5%B1%80%E9%83%A8/</loc>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%E6%9D%89%E6%9C%AC%E5%8D%9A%E5%8F%B8/</loc>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
+    <lastmod>2021-05-06T18:20:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/%E5%A4%A9%E5%9B%BD%E4%B8%8E%E5%9C%B0%E7%8B%B1/</loc>
     <lastmod>2021-04-11T21:10:50+08:00</lastmod>
   </url>
   
@@ -35,11 +55,6 @@
   <url>
     <loc>https://example.com/tags/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80/</loc>
     <lastmod>2021-03-31T20:54:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/%E5%A5%88%E8%89%AF%E7%BE%8E%E6%99%BA/</loc>
-    <lastmod>2021-03-12T00:22:10+08:00</lastmod>
   </url>
   
   <url>

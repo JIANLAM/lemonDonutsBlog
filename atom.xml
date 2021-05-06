@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-04-11T21:10:59+08:00</updated>
+    <updated>2021-05-06T18:20:34+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,80 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">局部</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%B1%80%E9%83%A8/" />
+            <id>https://example.com/posts/%E5%B1%80%E9%83%A8/</id>
+            <updated>2021-05-06T18:20:21+08:00</updated>
+            <published>2021-05-06T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[和美术馆最近在举行的展览：超越：安藤忠雄的艺术人生，其中「风平浪静的空间」的导览语：
+ 「墙的另一边，是一望无际的『海』，让人想起肉眼无法看到的世界，诉说着人们内心的事物。这也是我理想中的建筑形态，而杉本博司用摄影的手段，美好而精湛地实现了这个理想。 」]]></summary>
+            
+                <content type="html"><![CDATA[<p>和美术馆最近在举行的展览：超越：安藤忠雄的艺术人生，其中「风平浪静的空间」的导览语：</p>
+
+<blockquote>
+<p>「墙的另一边，是一望无际的『海』，让人想起肉眼无法看到的世界，诉说着人们内心的事物。这也是我理想中的建筑形态，而杉本博司用摄影的手段，美好而精湛地实现了这个理想。 」</p>
+</blockquote>
+
+<p>另，安藤忠雄的写真作品导览语：</p>
+
+<blockquote>
+<p>「我在拍摄自己作品时，许多情况下都会拍一些局部，如同保留一块他的残片一样。因为不会去说明外型、空间等内容，从信息量上等同于零。但是在照片中携刻着的光影造型，就是我脑中的建筑形象。这样来看，我的照片就是我脑海中思考轨迹的体现。」</p>
+</blockquote>
+
+<p>311大地震后，体会到无力感的奈良美智，深觉艺术派不上用场，它加入了地方的社区团体，帮忙做一些杂事，引自大誌133期：</p>
+
+<blockquote>
+<p>「疫情之后的世界里，要珍惜的，不就是像『小型社群』这样的事情吗？毕竟，疫情也是从人流多的大城市为中心开始。我们不应该跟一直以来一样，只想着要如何维持大型的事物，而是应该去思考人们本来是如何生活？什么时候会感到幸福？我相信，这不只是对疫情的反思，也是许多事情的解决之道。」</p>
+</blockquote>
+
+<p>坂本龙一的2020s艺术盒子中有一件特别的被打破的瓷器碎片：</p>
+
+<blockquote>
+<p>「它始于断裂。30多年来，我一直想创造一种使音乐本身成为一门艺术的东西。我以前做不到，因为有各种规则，但是现在我可以做...2020年，世界发生了变化。瘟疫诞生了，全球环境问题加速了。每个人都意识到，『问题不能一成不变』...那一年让我想起了人们是大自然的一部分，现在正是面对，思考和做出选择的时候。『我想记住这一刻』」</p>
+</blockquote>
+
+<p>以写真来讲，只拍下局部，不去说明整体的外形空间，信息量真的就等于零吗？并不见得，局部意味着细节，让观者能更清晰的 focus 在你想要表达的内容。未拍下的部分则留有更多暧昧的空间，引人遐想。而是次，在北海道举行的奈良美智写真展， 是他想要珍惜「小型社区」的实践，以北海道的小店为中心，窜连起社区之间人们的联系。但事实上「旅行的山子」这个hashtag已经遍布世界各地，人们通过拍照的形式，将世界各个不同的风光汇集到一起，由小到大的力量，我觉得是这次展览的目的，并且这样的影响还会一直持续下去。预告一下，9号我将 unbox 坂本龙一先生的2020s艺术盒子，敬请期待！</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%A5%88%E8%89%AF%E7%BE%8E%E6%99%BA/" term="奈良美智" label="奈良美智" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%9D%89%E6%9C%AC%E5%8D%9A%E5%8F%B8/" term="杉本博司" label="杉本博司" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%AE%89%E8%97%A4%E5%BF%A0%E9%9B%84/" term="安藤忠雄" label="安藤忠雄" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">天国与地狱</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%A4%A9%E5%9B%BD%E4%B8%8E%E5%9C%B0%E7%8B%B1/" />
