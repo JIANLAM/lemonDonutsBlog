@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-06-07T19:36:28+08:00</updated>
+    <updated>2021-08-22T16:56:25+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,50 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">LIGHT ON THE TIMELINE</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/light-on-the-timeline/" />
+            <id>https://example.com/posts/light-on-the-timeline/</id>
+            <updated>2021-08-22T16:53:39+08:00</updated>
+            <published>2021-08-22T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[银座的森岡書店从八月十七号到今天（八月甘十二号）举行了黒田泰蔵线上作品展：『A day in February……]]></summary>
+            
+                <content type="html"><![CDATA[<p>银座的森岡書店从八月十七号到今天（八月甘十二号）举行了黒田泰蔵线上作品展：<a href="https://www.moriokashoten.net/" target="_blank">『A day in February with light - Kuroda Taizo』</a>（有光的二月的一天），其相关的映像作品『A day in April with wind』（有风的四月的一天）给人以静谧、慵懒的感觉，就好像在听细野晴臣的专辑『小偷家族』那首『like a family』一样，悠然自在，方佛一场风暴刚刚过去，躺在庭院里的玄关上，等待夏天过去一样。是次展出的作品，概念上是想记录光线对事物微妙的影响，呈现出观感的不同。包括在那支影像作品中，光与风声为主要的两个因素，我们的记忆离不开这两样东西，你会发现我们无时无刻都在记录着他们。坂本龙一说他最爱的声音装置是听雨的声音，而我至今最难忘的一次海边旅行，也被那天耀眼的光照射的睁不开眼睛。</p>
+
+<p>说起和光有关的影像，那么最近在PLACE M也有刚闭幕的写真展：中澤真央的<a href="https://www.placem.com/schedule/2021/main/20210809/exhibition.php?fbclid=IwAR2Fcx_t66T_AILBoInukoXFE3_KZ5aFDGjaiYGlWF56A-xoz8cJpLTt2EA" target="_blank">「光の覚書き」（光的备忘录）</a>，摄影书也有许多选择，譬如：推荐过很多次的蜷川实花《那些美丽的日子》、滨田英明的《远方的鼓声》、 奥山由之啊他们的写真。与光影有关的还有器物，我们经常用的瓶瓶罐罐，我最近非常喜欢的陶器，像是你在专辑《Async》上能看到的盆栽，用黑砂泥、白陶土制成的黑白盆碟，在不同角度的光线下会呈现不一样的魅力。</p>
+
+<p>当然，正如我前面说的，光影总是伴随着记忆，狭义上讲我们只在一条时间线上，那么当我们回忆的时候，光影虽然共通但确实是唯一的指向，带领我们穿梭回以往的时空。</p>
+
+<p>我们努力的留下些痕迹，因为我们打算缅怀它们。最后分享两首歌来迎接、告别这个夏天吧！一首是RADWIMPS 的新歌<a href="https://www.youtube.com/watch?v=KArq421qlws&amp;ab_channel=RADWIMPS" target="_blank">「SUMMER DAZE 」</a>在这次的FUJI ROCK上也第一次演出了。还有山下達郎的名曲<a href="https://www.youtube.com/watch?v=_paXh_LgwmM&amp;ab_channel=WarnerMusicJapan" target="_blank">「さよなら夏の日」</a>，由负责 YOASOBI 专辑的新星新菜爱重新制作MV。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E5%85%89/" term="光" label="光" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">IRREGULAR 不圓</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/irregular/" />
@@ -6623,9 +6667,9 @@ Sunny在manga中其實是一輛被廢棄的車，它同時還兼顧著另外一�
     
         <entry>
             <title type="text">突破远近法的生活</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%81%E7%A0%B4%E5%93%9E%E8%BF%91%E6%B3%95%E7%9A%84%E7%94%9F%E6%B4%BB/" />
-            <id>https://example.com/posts/%E7%AA%81%E7%A0%B4%E5%93%9E%E8%BF%91%E6%B3%95%E7%9A%84%E7%94%9F%E6%B4%BB/</id>
-            <updated>2019-12-08T21:46:26+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AA%81%E7%A0%B4%E8%BF%9C%E8%BF%91%E6%B3%95%E7%9A%84%E7%94%9F%E6%B4%BB/" />
+            <id>https://example.com/posts/%E7%AA%81%E7%A0%B4%E8%BF%9C%E8%BF%91%E6%B3%95%E7%9A%84%E7%94%9F%E6%B4%BB/</id>
+            <updated>2021-06-19T13:30:29+08:00</updated>
             <published>2017-11-09T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -7224,6 +7268,61 @@ Sunny在manga中其實是一輛被廢棄的車，它同時還兼顧著另外一�
                                 <category scheme="https://example.com/tags/selfportrait%E5%8D%9A%E5%AE%A2/" term="selfportrait博客" label="selfportrait博客" />
                             
                         
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E4%B9%A6%E6%9E%B6%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE/" />
+            <id>https://example.com/posts/%E4%B9%A6%E6%9E%B6%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE/</id>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[]]></summary>
+            
+                <content type="html"><![CDATA[]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%9F%AD%E5%89%A7%E5%BC%80%E5%A7%8B%E4%BA%86/" />
+            <id>https://example.com/posts/%E7%9F%AD%E5%89%A7%E5%BC%80%E5%A7%8B%E4%BA%86/</id>
+            <updated>0001-01-01T00:00:00+00:00</updated>
+            <published>0001-01-01T00:00:00+00:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[日剧「剧场开始了」（コントが始まる）今年年初霸占各大网单，讲述了平凡且不红的谐星组合：「麦克白」（マクベス）其三名团员在不断的失败中追寻幸福的故事，经过十年的洗礼，物是人非，在告别演出以前，他们用自己的方式在做最后的告别。]]></summary>
+            
+                <content type="html"><![CDATA[<p>日剧<a href="https://movie.douban.com/subject/35358556/" target="_blank">「剧场开始了」（コントが始まる）</a>今年年初霸占各大网单，讲述了平凡且不红的谐星组合：「麦克白」（マクベス）其三名团员在不断的失败中追寻幸福的故事，经过十年的洗礼，物是人非，在告别演出以前，他们用自己的方式在做最后的告别。</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
                     
                 
             
