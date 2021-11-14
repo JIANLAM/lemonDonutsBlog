@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2021-11-14T16:13:35+08:00</updated>
+    <updated>2021-11-14T20:37:59+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">太空漫步2021</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%AD%A52021/" />
             <id>https://example.com/posts/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%AD%A52021/</id>
-            <updated>2021-11-14T16:13:16+08:00</updated>
+            <updated>2021-11-14T20:37:52+08:00</updated>
             <published>2021-11-14T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -29,20 +29,20 @@
                     </author>
             <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[新 Macbook Pro到了，花了些时间，把原来旧电脑数据用time machine同步过来，当然如果你没有备份过系统，可以用他们的数据迁移工具，简单来说，就是两台设配通过配对连接的方式进行端到端的数据传输。其实还是推荐大家养成备份系统的习惯，mac用户可以用移动硬盘（买个1TB的足够了）配合 time machine 每个月定期进行备份。window 用户应该也差不多吧。以前我的习惯也不太好，因为我的照片、视频会堆积的比较多，但是我很少会去备份、迁移数据，我也不太信任云端，从来不会把重要数据放到云上，这样就导致每次我的设备存储空间不管多大，都处于不够用的状态，其实这样真的不太好。所以乘着这次机会改掉自己的坏毛病，打算买个额外的移动硬盘（推荐2到3TB）进行单独数据存储备份，这样会安全很多。]]></summary>
+    <summary type="html"><![CDATA[新 Macbook Pro到了，花了些时间，把原来旧电脑数据用time machine同步过来，当然如果你没有备份过系统，可以用他们的数据迁移工具，简单来说，就是两台设配通过配对连接的方式进行端到端的数据传输。其实还是推荐大家养成备份系统的习惯，mac用户可以用移动硬盘（买个1TB的足够了）配合 time machine 每个月定期进行备份。以前有个习惯不太好，因为我的照片、视频会堆积的比较多，但很少会去备份、迁移数据，我也不太相信云端，从来不会把重要数据放到云上，这样就导致每次我的设备存储空间不管多大，都处于不够用的状态，其实这样真的不太好。所以乘着这次机会打算买个额外的移动硬盘（推荐2到3TB）进行单独数据存储备份，这样会安全可靠很多。]]></summary>
             
-                <content type="html"><![CDATA[<p>新 Macbook Pro到了，花了些时间，把原来旧电脑数据用time machine同步过来，当然如果你没有备份过系统，可以用他们的数据迁移工具，简单来说，就是两台设配通过配对连接的方式进行端到端的数据传输。其实还是推荐大家养成备份系统的习惯，mac用户可以用移动硬盘（买个1TB的足够了）配合 time machine 每个月定期进行备份。window 用户应该也差不多吧。以前我的习惯也不太好，因为我的照片、视频会堆积的比较多，但是我很少会去备份、迁移数据，我也不太信任云端，从来不会把重要数据放到云上，这样就导致每次我的设备存储空间不管多大，都处于不够用的状态，其实这样真的不太好。所以乘着这次机会改掉自己的坏毛病，打算买个额外的移动硬盘（推荐2到3TB）进行单独数据存储备份，这样会安全很多。</p>
+                <content type="html"><![CDATA[<p>新 Macbook Pro到了，花了些时间，把原来旧电脑数据用time machine同步过来，当然如果你没有备份过系统，可以用他们的数据迁移工具，简单来说，就是两台设配通过配对连接的方式进行端到端的数据传输。其实还是推荐大家养成备份系统的习惯，mac用户可以用移动硬盘（买个1TB的足够了）配合 time machine 每个月定期进行备份。以前有个习惯不太好，因为我的照片、视频会堆积的比较多，但很少会去备份、迁移数据，我也不太相信云端，从来不会把重要数据放到云上，这样就导致每次我的设备存储空间不管多大，都处于不够用的状态，其实这样真的不太好。所以乘着这次机会打算买个额外的移动硬盘（推荐2到3TB）进行单独数据存储备份，这样会安全可靠很多。</p>
 
-<p>关于一些软件的使用，我相信大家都有自己的心头好，我之前写备忘录、TODO 一直使用的是 bear，十分推荐，不愧是 Apple Store 年度app。后来觉得 mac 自带的备忘录也不差，虽然用 iCloud 同步，有存储空间受限后要付费的情况，还有云上贵州等等风险，但其实还好，只是当作随手的 TODO 来写的话，我觉得可以接受。我平时写作的话，用的是 Typora，听说最近也出了window版了，很多人在用，还有蛮多不错的软件...</p>
+<p>关于一些软件的使用，我相信大家都有自己的心头好，我之前写备忘录、TODO 一直使用的是 bear，十分推荐，不愧是 Apple Store 年度app。后来觉得 mac 自带的备忘录也不差，虽然用 iCloud 同步，有存储空间受限后要付费的情况，还有云上贵州等等风险，但其实还好，只是当作随手的 TODO 来写的话，我觉得可以接受。我平时写作的话，用的是 Typora，听说最近也出了window版了，很多人在用，还有其他蛮多不错的软件...</p>
 
-<p>其实今天重点是想说下隐私安全。我觉得普遍的观点是，「隐私安全有什么好保护的，我又没什么秘密」，说实话，我也不打算对这些朋友有过高的期待，但我仍觉得有必要不厌其烦的去说这些事情。包括我的家里人，会不定期普及一下。我也不会试着告诉大家不要去使用微信，因为没办法绕过它，但是我们可以有的「选」，就像买东西一样，替代品多了，大家就会下意识去比较，我觉得不必太着急。</p>
+<p>其实今天重点是想说下隐私安全。我觉得普遍的观点是，「隐私安全有什么好保护的，我又没什么秘密」，说实话，我也不打算对这些朋友有过高的期待，但我仍觉得有必要不厌其烦的去说这些事情。包括我的家里人，会不定期普及一下。我也不会试着告诉大家不要去使用微信，因为你没办法绕过它，但是我们可以有的「选」，就像买东西一样，替代品多了，大家就会下意识的去比较，我觉得不必太着急。</p>
 
-<p>有以下几点，我觉得可以很简单做到的：</p>
+<p>以下几点，我觉得可以简单做到：</p>
 
 <ol>
-<li><p>设置够长的密码，今天看到一个新闻，说一个偷手机的骂他主人密码设置的太简单了，导致这么容易就把手机里的钱转走了。最简单的是密码要够长够复杂，增加破译难度，不要所有账户都用同一个密码。更高级的话使用 one password 等密码管理工具对密码进行集中管理、设定。</p></li>
+<li><p>设置够长的密码，今天看到一个新闻，说一个偷手机的骂他主人密码设置的太简单了，导致这么容易就把手机里的钱转走了，实在诙谐..最简单的是密码要够长够复杂，增加破译难度，不要所有账户都用同一个密码。更高级的话使用 one password 等密码管理工具对密码进行集中管理、设定。</p></li>
 
-<li><p>给账户开通两步验证（<strong>2FA，2-Factor Authentication</strong>），现在几乎所有的账户安全设置都支持两步验证，请务必开通，在登陆的时候，你可以通过短信、email、验证程式等方式对你的身份进行再一步验证。做到这里你的账户已经相当安全了。当然更安全、高级的方式是通过「Security Key」物理密钥来进行身份验证。目前市面上比较不错的产品有「YubiKey」、「Google Titan Security Key」，大家可以通过这篇文章进一步了解：<a href="https://free.com.tw/yubikey-with-google-setup/" target="_blank">链接</a>。是次，我也从海外买了YubiKey（可以买两个、一个丢了，另一个当备份），对我用到的一些社交媒体进行加密保障，比如twitter、Facebook、gmail 等等，当然它也可以帮助你进行登陆电脑的验证，但因为我的电脑有指纹识别，这一步就省了。</p></li>
+<li><p>给账户开通两步验证（<strong>2FA，2-Factor Authentication</strong>），现在几乎所有的账户安全设置都支持两步验证，请务必开通，在登陆的时候，你可以通过短信、email、验证程式等方式对你的身份进行再一步验证。做到这里你的账户已经相当安全了。当然更安全、高级的方式是通过「Security Key」物理密钥来进行身份验证。目前市面上比较不错的产品有「YubiKey」、「Google Titan Security Key」，大家可以通过这篇文章进一步了解：<a href="https://free.com.tw/yubikey-with-google-setup/" target="_blank">链接</a>。是次，我也从海外买了YubiKey（可以买两个、一个丢了，另一个当备份），对我常用到的一些社交媒体账户更多的保障，比如twitter、Facebook、gmail 等等，当然它也可以帮助你进行登陆电脑的验证，但因为我的电脑有指纹识别，这一步就省了。</p></li>
 
 <li><p>默认搜索引擎使用Duckduckgo（使用!g转google查询）、Startpage</p></li>
 
@@ -52,10 +52,10 @@
 
 <li><p>使用可靠的VPN（Mullvad VPN、Proton VPN、Surfshark VPN...），不要使用来历不明、免费的VPN。改变mac地址，对自身的IP地址进行隐藏保护，window端可以使用：<a href="https://technitium.com/tmac/" target="_blank">链接</a>。mac 系统使用如下方式：</p>
 <pre><code>Step 1:
-输入cmd，openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'`
+输入cmd，openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//'
    
 Step 2:
-生成Mac address，加到 sudo ifconfig en0 ether。
+生成Mac address，加到 sudo ifconfig en0 ether
    
 Step 3:
 sudo ifconfig en0 ether xx:xx:xx:xx</code></pre></li>
