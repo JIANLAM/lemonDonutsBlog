@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2022-06-18T23:37:27+08:00</updated>
+    <updated>2022-06-25T13:48:26+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -17,10 +17,97 @@
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
         <entry>
+            <title type="text">Flower In the Sun</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/flower-in-the-sun/" />
+            <id>https://example.com/posts/flower-in-the-sun/</id>
+            <updated>2022-06-25T13:47:55+08:00</updated>
+            <published>2022-06-25T08:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[Kila Cheung 「在我睡著的時候開了花」（ Blossoms When I Am Sleeping）]]></summary>
+            
+                <content type="html"><![CDATA[<p>Kila Cheung 「在我睡著的時候開了花」（ Blossoms When I Am Sleeping）</p>
+
+<p><img src="http://120.24.60.196:9000/img/FV1IfFbaIAIwh-e.jpeg" alt="在我睡著的時候開了花" /></p>
+
+<p>摄影师石田真澄接受采访时说：</p>
+
+<blockquote>
+<p>「光有其自己的意識，比起那個人美麗的瞬間，我會無意識地、更優先地拍攝下灑在那人身上的光線，令人覺得美麗的瞬間。」</p>
+</blockquote>
+
+<p><img src="http://120.24.60.196:9000/img/286233836_200146919258497_5350157999537520599_n.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=minioadmin%2F20220625%2F%2Fs3%2Faws4_request&amp;X-Amz-Date=20220625T042655Z&amp;X-Amz-Expires=432000&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=eb1d64fdf62c5e2e40974155250dc7577e448c25cc081e43b3ecce4e04a04246" alt="光" /></p>
+
+<p>my little airport - <a href="https://www.youtube.com/watch?v=LJBixh-k-Ik&amp;ab_channel=mylittleairport" target="_blank">LUNCH</a></p>
+
+<blockquote>
+<p>太多廢話亂我心神</p>
+
+<p>寧願這裡繼續有病菌</p>
+
+<p>不想見人</p>
+
+<p>但你新工作在我家附近</p>
+
+<p>為了和你食lunch才打一針 講笑 (也有一分真)</p>
+
+<p>我被困在某種雲層 四周也是霧</p>
+
+<p>看不到路中心</p>
+
+<p>算是人類共同命運</p>
+
+<p>四月份是最殘忍</p>
+
+<p>你怎不知道我點諗</p>
+
+<p>當然這是不可能</p>
+
+<p>不要望我雙眼 會暈</p>
+</blockquote>
+
+<p>愛繆 - <a href="https://www.youtube.com/watch?v=gvACSNWJbew&amp;ab_channel=%E5%8F%B0%E7%81%A3%E8%8F%AF%E7%B4%8D%E6%97%A5%E9%9F%93%E5%AE%98%E6%96%B9%E9%A0%BB%E9%81%93" target="_blank">「初戀正哭泣著」</a></p>
+
+<blockquote>
+<p>「吃著、喝著、回憶著、哭著、生氣著，然後過了一段時間，終於忘記為什麼那麼喜歡了，但還是有點喜歡啊，真的很惱人。在拍攝時想起了當時的事情。」</p>
+</blockquote>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E8%8A%B1/" term="花" label="花" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E9%98%B3%E5%85%89/" term="阳光" label="阳光" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">台前调度vs多屏幕</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%8F%B0%E5%89%8D%E8%B0%83%E5%BA%A6-vs-%E5%A4%9A%E5%B1%8F%E5%B9%95/" />
             <id>https://example.com/posts/%E5%8F%B0%E5%89%8D%E8%B0%83%E5%BA%A6-vs-%E5%A4%9A%E5%B1%8F%E5%B9%95/</id>
-            <updated>2022-06-18T22:58:47+08:00</updated>
+            <updated>2022-06-25T11:49:34+08:00</updated>
             <published>2022-06-18T14:47:57+08:00</published>
             <author>
                     <name>kinlam</name>
@@ -7392,33 +7479,6 @@ Sunny在manga中其實是一輛被廢棄的車，它同時還兼顧著另外一�
                                 <category scheme="https://example.com/tags/selfportrait%E5%8D%9A%E5%AE%A2/" term="selfportrait博客" label="selfportrait博客" />
                             
                         
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text"></title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/%E4%B9%A6%E6%9E%B6%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE/" />
-            <id>https://example.com/posts/%E4%B9%A6%E6%9E%B6%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE/</id>
-            <updated>0001-01-01T00:00:00+00:00</updated>
-            <published>0001-01-01T00:00:00+00:00</published>
-            <author>
-                    <name>kinlam</name>
-                    <uri>http://lemondonuts.com/</uri>
-                    <email>mrkinlam7@gmail.com</email>
-                    </author>
-            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[]]></summary>
-            
-                <content type="html"><![CDATA[]]></content>
-            
-            
-            
-            
-            
-                
-                    
-                
                     
                 
             
