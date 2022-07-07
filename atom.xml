@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2022-06-25T14:46:31+08:00</updated>
+    <updated>2022-07-07T21:46:55+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,55 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">悼高桥和希</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E6%82%BC%E9%AB%98%E6%A1%A5%E5%92%8C%E5%B8%8C/" />
+            <id>https://example.com/posts/%E6%82%BC%E9%AB%98%E6%A1%A5%E5%92%8C%E5%B8%8C/</id>
+            <updated>2022-07-07T21:46:47+08:00</updated>
+            <published>2022-07-07T14:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[下午看到新闻，高桥和希先生去世的消息让我十分震惊，非常突然，实在遗憾！！]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="http://120.24.60.196:9000/img/Xnip2022-07-07_21-44-44.png" style="zoom:80%;" /></p>
+
+<p>下午看到新闻，高桥和希先生去世的消息让我十分震惊，非常突然，实在遗憾！！</p>
+
+<p>我们熟知的《游戏王》漫画作者，我的童年是伴随着这种收集型卡片成长的，在互联网并不发达的那个年代，某宝等线上平台还不盛行，所有的卡片必须通过实体店购买才能收集，每次店里卖的卡包都不相同，这种卡片出现的不确定性以及和朋友进行交换的乐趣，是那个时候我们的集体回忆。那会，电视机还没有消亡，除了能看到点播台。下午4点放学后，我们一定会准点打开电视，本港台正放着《游戏王》动漫。直到现在这种影响还是很深远，高中的时候，我仍会赠送卡片当作友谊的象征，就像《死亡搁浅》里连接的概念，就是所谓的羁绊吧。</p>
+
+<p>我和伙伴的友谊从那时候开始，也结束的很突然，正如高桥先生的离开一样，生命无常，希望老师在天国的一边能找到永远的<a href="https://www.youtube.com/watch?v=Jny6R9_Qt1o" target="_blank">「乐园」</a>！</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E6%B8%B8%E6%88%8F%E7%8E%8B/" term="游戏王" label="游戏王" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/%E9%AB%98%E6%A1%A5%E5%92%8C%E5%B8%8C/" term="高桥和希" label="高桥和希" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Flower In the Sun</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/flower-in-the-sun/" />
@@ -3217,7 +3266,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
+                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
                             
                         
                     
@@ -3374,7 +3423,7 @@ PLAN B： 到上水站/D1出口，搭乘A43、A43P的巴士牌子，💰：30.9<
                             
                             
                             
-                                <category scheme="https://example.com/tags/zard/" term="ZARD" label="ZARD" />
+                                <category scheme="https://example.com/tags/zard/" term="zard" label="zard" />
                             
                         
                             
