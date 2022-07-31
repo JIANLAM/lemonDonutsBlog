@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2022-07-26T21:56:07+08:00</updated>
+    <updated>2022-07-31T10:59:31+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,60 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">2019</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/2019/" />
+            <id>https://example.com/posts/2019/</id>
+            <updated>2022-07-31T10:59:08+08:00</updated>
+            <published>2022-07-31T08:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[2019年6月9日，「守護香港反送中」大遊行 2019年8月1日，暂停47个城市大陆居民赴台个人游 2019年9月27日，日本自由行 2019年12月，武汉新冠疫情大爆发 ……]]></summary>
+            
+                <content type="html"><![CDATA[<ul>
+<li>2019年6月9日，「守護香港反送中」大遊行</li>
+<li>2019年8月1日，暂停47个城市大陆居民赴台个人游</li>
+<li>2019年9月27日，日本自由行</li>
+<li>2019年12月，武汉新冠疫情大爆发</li>
+</ul>
+
+<p>我对时间线没有什么特别的记忆，但是2019年很难不让人记得，从那以后世界变得不再一样，彷佛许多美好的事情都只能活在回忆里。这几天一年一度的 Fuji Rock 又开始了，看到<a href="http://t.cn/A67mAvfy?u=1781937105&amp;m=4479496033725279&amp;cu=1781937105" target="_blank">肥脸唱片</a>在社交网络上编辑了2020年的围脖：</p>
+
+<blockquote>
+<p>去年夏天，去了瀨戶內海藝術祭，Fuji Rock，見了一堆朋友，淘了一堆膠，一直在趕路，拍了一堆亂剪一通下來，又想去日本。</p>
+</blockquote>
+
+<p>路过正在装修的低烧眼镜店面，贴着的是2018年8月12日主理人在京东拍摄的照片，一个身穿和服的女人正在石街上走着。</p>
+
+<p>不知不觉，戴口罩的日子已经过去2年半， 这恐怕是人类历史上史无前例的。这段时间里，也没有机会过香港，现在的香港种种原因已不再是以前的「香港」，换句话说，我们这一代见证了香港的蜕变，大南街期间限定的「七分之一」书店恐怕我是无缘拜访了。</p>
+
+<p>或许时间是停滞不前了，每年年终，我们都会盼望着来年会不会都变得不一样，是不是一切又恢复正常了，落空以后还是继续前行。 后疫情时代，我们注定要错过很多事情，这些事情，要说会遗憾一辈子，也并不过分。</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/2019/" term="2019" label="2019" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">花两个小时只为看十分钟的展？</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E8%8A%B1%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%8F%AA%E4%B8%BA%E7%9C%8B%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E5%B1%95/" />
