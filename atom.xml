@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">梦见舍</title>
     <subtitle type="html">kinlam的个人博客</subtitle>
-    <updated>2022-07-31T10:59:31+08:00</updated>
+    <updated>2022-10-23T19:58:15+08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,60 @@
             </author>
     <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.60.1">Hugo</generator>
+        <entry>
+            <title type="text">VR-未来的现在</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/vr-%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%8E%B0%E5%9C%A8/" />
+            <id>https://example.com/posts/vr-%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%8E%B0%E5%9C%A8/</id>
+            <updated>2022-10-23T19:58:05+08:00</updated>
+            <published>2022-10-23T08:47:57+08:00</published>
+            <author>
+                    <name>kinlam</name>
+                    <uri>http://lemondonuts.com/</uri>
+                    <email>mrkinlam7@gmail.com</email>
+                    </author>
+            <rights>[本文采用 CC BY-NC-SA 4.0 许可协议，转载请注明出处](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[最近几个月，由和美术馆主办， 朱利安·奥培(Julian Opie)的个展「VR.OP」深圳站位于深圳万象天地L4层艺术计划·场举行，到明年1月31号结束。他本人在日本涩谷的展览：『OP.VR@PARCO』也在同步进行中， 11月26号结束，有兴趣不妨留意。
+第一次认识他，是在LifeWear 生活杂志第二期，现代主义简洁的画风，一下就被这个杂志封面吸引住了。在他的创作里，摩天大楼、街上通勤的路人、各行各业的自画像、小动物，看似简单的线条、却能鲜明的刻画出这些群体的轮廓与特点，让人很难不印象深刻。]]></summary>
+            
+                <content type="html"><![CDATA[<p>最近几个月，由和美术馆主办， 朱利安·奥培(Julian Opie)的个展「VR.OP」深圳站位于深圳万象天地L4层艺术计划·场举行，到明年1月31号结束。他本人在日本涩谷的展览：<a href="https://art.parco.jp/museumtokyo/detail/?id=1088" target="_blank">『OP.VR@PARCO』</a>也在同步进行中， 11月26号结束，有兴趣不妨留意。</p>
+
+<p>第一次认识他，是在LifeWear 生活杂志第二期，现代主义简洁的画风，一下就被这个杂志封面吸引住了。在他的创作里，摩天大楼、街上通勤的路人、各行各业的自画像、小动物，看似简单的线条、却能鲜明的刻画出这些群体的轮廓与特点，让人很难不印象深刻。</p>
+
+<p>此次展览，有一part是VR的部分， 以下引用他对VR的看法：</p>
+
+<blockquote>
+<p>『在准备展览期间，我开始使用VR眼镜，将我的作品以数字化的形式载入美术馆及画廊的空间模型中。我慢慢意识到，自己很享受身处这些空间之中，并会时不时想方设法地再体验一次。理由很简单，就是为了取乐。<strong>我开始设想，如果只在这些虚拟空间做展览，那么便不会受到现实世界的诸多限制：做雕塑的时候需要考虑重量或者易破损的程度；会动的作品则会需要电子设备；照明也有限制，需要服从重力的安排。</strong>有了VR眼镜，这些壁垒就都不复存在了。』</p>
+
+<p>『我最初的尝试很花哨，但其最终却像魔术或烟花一样无聊俗套。最佳的方式仍是紧贴我们熟悉的现实，建造一个普通的展厅空间，在展台上陈列雕塑、在墙上挂画。如此，观众会觉得自己在熟悉的世界中，也愿意慢慢步入其中。』</p>
+</blockquote>
+
+<p>就这样，在事先规划好的空间区域，工作人员协助将VR眼镜戴好，引导我进入了那个奇妙的空间。 这是我第一次体验VR，或许是因为体验时长只有10分钟，眼镜穿戴所带来的不适感并没有很强烈。比较突兀的是，因为没有办法看到手，虚拟墙壁与真实的墙壁的距离感是有差距的，这种距离感好几次都让我的左手表盘撞击到真实墙壁上。</p>
+
+<p>在这个空间里面，观赏者要8次穿过一堵墙背后的隧道，每一次穿过都会触发新的场景，进入一个全新的展区， 应该是在某个点触发了程序逻辑吧。8个展区都是奥培过往的作品，里面有摩登大楼般的建筑、跳舞的人型板、在地面啄食的鸽子、北欧地区的村落，正如他本人所描述的那样， 在VR的世界里，创作不受篇幅、材料、等外在因素的限制，想象力可以无限发挥。</p>
+
+<p>或许在不久的将来，VR设备变得普及，我们在家也能够随时的看展、音乐会，在设备上购买门票，就可以通过VR设备云看展。有传言苹果也准备入场VR，现阶段VR还是有许多的不足，它无法与我们的真实生活充分的联系到一块，有割裂感。使用也非常小心翼翼，没有足够的安全感，设备笨重、不够沉浸，我们要开发的路还很远，但确实是有意思的事情，让我们拭目以待...</p>]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/vr/" term="VR" label="VR" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">2019</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/2019/" />
